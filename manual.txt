@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=DGKjcLzX8Jw
+
+Content includes:
+installation of react application/vue
+use of tailwind css for application
+
+https://heroicons.com/ for icons
+
+react icons are used in this project
